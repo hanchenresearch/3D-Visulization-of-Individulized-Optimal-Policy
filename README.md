@@ -3,4 +3,5 @@ This is the 3D visualization of daily individualized optimal treatment $a$ (acti
 
 Download the html file for each day, double-click, and it should open in your browser, e.g., Google Chrome.
 
-# <center> Individualized Optimal Sequential Policy of Advertising in a 3D Interactive State-Action Space </center>
+<center> Individualized Optimal Sequential Policy of Advertising in a 3D Interactive State-Action Space </center>
+![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
