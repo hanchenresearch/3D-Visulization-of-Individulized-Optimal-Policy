@@ -12,5 +12,7 @@ We take a snapshot from the same spatial angle for each day’s visualization an
 </p>
 
 <p align="center">
-  <img width="200" src="https://www.dropbox.com/s/np4i3yyvwablnf6/optimalpolicy.png" alt="Daily Visualization">
+  <img width="200" src="/optimalpolicy.png" alt="Daily Visualization">
 </p>
+
+
