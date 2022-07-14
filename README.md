@@ -1,7 +1,16 @@
 # 3D Visulization of Individualized Optimal Policy $\pi(𝑎_{𝑖𝑡}│𝑠_{𝑖𝑡})$
-This is the 3D visualization of daily individualized optimal treatment $a$ (action) conditional on the reading state input $s$ (login, download, reading time).
+<br />
 
-Download the html file for each day, double-click, and it should open in your browser, e.g., Google Chrome.
+This is the visualization of daily individualized optimal treatment $a$ (action) allocation conditional on the reading state input $s$ (number of logins, download times and reading time). Download the html file for each day, double-click, and it opens in your browser, e.g., Google Chrome. The interactive 3D space allows for zooming in/out and rotations in any direction. Each dot in the state-action space represents an individual customer for whom the daily optimal treatment $a_t$, denoted by different colors, is plotted against reading state $s_t$.
 
-<center> Individualized Optimal Sequential Policy of Advertising in a 3D Interactive State-Action Space </center>
-![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
+We take a snapshot from the same spatial angle for each day’s visualization and summarize the dynamics in the following figure. It visualizes how customer state variables drive the dynamic treatment allocation in the optimal policy $\pi^\ast(a_{it}|s_{it})$ as well as how state variables themselves transit ($(s_{it},a_{it}) &rarr (s_{i(t+1)}, r_{it})$).
+
+<br />
+
+<p align="center">
+    Individualized Optimal Sequential Policy of Treatment in a 3D Interactive State-Action Space
+</p>
+
+<p align="center">
+  <img width="200" src="https://myoctocat.com/assets/images/base-octocat.svg" alt="Daily visualization">
+</p>
