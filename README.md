@@ -12,7 +12,7 @@ We take a snapshot from the same spatial angle for each day’s visualization an
 </p>
 
 <p align="center">
-  <img width="200" src="/optimalpolicy.png" alt="Daily Visualization">
+  <img width="200" src="https://github.com/hanchenresearch/3D-Visulization-of-Individulized-Optimal-Policy/blob/287a2e1ba3c541e11f7abb2eba71ba29f64622c2/asset/images/optimalpolicy.png" alt="Daily Visualization">
 </p>
 
 
