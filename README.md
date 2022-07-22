@@ -1,7 +1,7 @@
 # Technical Appendix
-
+<br />
 [Click Here for Technical Appendix.](https://github.com/hanchenresearch/3D-Visulization-of-Individulized-Optimal-Policy/blob/7c6b5aa7945d3153abf668244519f80723b87072/asset/files/TechnicalAppendix.pdf)
-<br>
+
 
 # 3D Visulization of Individualized Optimal Policy $\pi^\ast(𝑎_{𝑖𝑡}│𝑠_{𝑖𝑡})$
 <br />
