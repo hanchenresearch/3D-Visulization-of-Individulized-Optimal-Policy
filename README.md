@@ -18,7 +18,7 @@ I take a snapshot from the same spatial angle for each day’s visualization and
 </p>
 
 <p align="center">
-  <img width="600" src="asset/images/OptimalPolicy.jpg" alt="Daily Visualization">
+  <img width="800" src="asset/images/OptimalPolicy.jpg" alt="Daily Visualization">
 </p>
 
 
